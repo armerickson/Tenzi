@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tenzi/static/css/main.49e1ac6a.css",
+    "main.js": "/Tenzi/static/js/main.0f3c6dc5.js",
+    "index.html": "/Tenzi/index.html",
+    "main.49e1ac6a.css.map": "/Tenzi/static/css/main.49e1ac6a.css.map",
+    "main.0f3c6dc5.js.map": "/Tenzi/static/js/main.0f3c6dc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49e1ac6a.css",
+    "static/js/main.0f3c6dc5.js"
+  ]
+}
